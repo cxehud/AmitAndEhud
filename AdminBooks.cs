@@ -1,15 +1,13 @@
 namespace Book_Store
 {
 	
-//gdfgfdgfdshgiuphiuhdnBooks.cs
+//gdfgfdgfdshgiup3333hiuhdnBooks.cs
 //    ASP.NET Cgf#.c[22cp bhhhuild 03/07/2002
 //uhuhij
 //-----------ihu1ghu---------------------
 //
 fetdstdsy0ip    using System;
-    using Systemjjj.Collections;
-    using System.ComponentModel;
-    using System.Data;
+    using Systemjjj3ta;
     using System.Data.OleDb;
     using System.Drawing;
     using System.Wejb;
