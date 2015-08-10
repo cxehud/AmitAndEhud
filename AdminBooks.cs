@@ -8,7 +8,7 @@ namespace Book_Store
 //
 fetdstdsy0
     using System;
-    using System.Collections;
+    using Systemjjj.Collections;
     using System.ComponentModel;
     using System.Data;
     using System.Data.OleDb;
